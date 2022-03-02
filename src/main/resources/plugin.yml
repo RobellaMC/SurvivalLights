@@ -1,0 +1,7 @@
+name: SurvivalLights
+version: '${project.version}'
+main: com.cluelesscraft.survivallights.Main
+api-version: 1.18
+authors: [ Robella ]
+description: Craftable light source blocks in survival.
+website: https://www.robella.carrd.co/
